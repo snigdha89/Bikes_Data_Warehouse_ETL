@@ -12,3 +12,11 @@ After this part of Transformation is done for each CSV files, I have loaded the 
 
 Once the data reaches in ODS( Bikes Database in SQL server) the Business/Technical Team can access this data and create their own DataMart/ Datawarehouse(Bikes_DWH database in SQL server). In this case I have created a DATA Warehouse which answers questions on Sales Related Information for the Bikes. Below is the ERD for the same
 ![image](https://user-images.githubusercontent.com/83393290/186273698-8772893b-5771-40cc-b972-0ae289130291.png)
+
+This dashboard is based on the Bikes_DWH.dbo.Prdct_Sm_Fct Fact table of the Datawarehouse.
+In this dashboard,we can see that the first plot shows the quantity sold by each product category overall . On side of it we see a table which computes all the product categories based on product_pricing(which I computed in MicroStrategy using Groups functionality of the tool) and the quantity sold and sales amount.
+Third plot is on the sales amount and Quantity sold for each year.Since I had the data of 2019 and 2018, the bar plot here reflects 2 bars for each with the Sales amount and quantity sold for each year.  On side of it is the graph split on quarters for the same metrics and below it is based on months. Below that is the detailed table with each detail of partners and their Sales amount and Quantity sold. We can keep adding more attributes to it to get more and more details here. 
+The good part is this dashboard was built interconnected to each graph so that if you click on on bar or category in the first graph the data will reflect on the category level for each of the other graphs and tables. This gives lot of freedom to to the business users to have answers based on multiple questions using a single sheet. For more questions we can keep building multiple interactive dashboards here.
+![image](https://user-images.githubusercontent.com/83393290/186274246-2a6d065e-7094-40b6-80bf-4f9fea8dea42.png)
+This dashboard is based on the Bikes_DWH.dbo.Ordr_Sm_Fct Fact table of the Datawarehouse.
+![image](https://user-images.githubusercontent.com/83393290/186274283-95ddbbe9-760c-4667-957d-727d72e6f1c5.png)
