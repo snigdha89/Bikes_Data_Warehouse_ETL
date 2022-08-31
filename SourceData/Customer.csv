@@ -1,0 +1,72 @@
+customer_id,first_name,last_name,gender,DOB,job_industry_category,wealth_segment,deceased_indicator
+1,Laraine@%,Medendorp@@,Female,12-10-1953,Manufacturing,Mass Customer,N
+2,Eli#,Bockman##,Male,16-12-1980,Property,Mass Customer,N
+3,Arlin,Dearle*,Female,20-01-1954,Financial Services,Affluent Customer,N
+4,Talbot,Sam,Male,03-10-1961,Manufacturing,Affluent Customer,N
+5,Sheila-kathryn,Calton,Female,13-05-1977,Financial Services,Affluent Customer,N
+6,Curr,Duckhouse,Male,16-09-1966,Entertainment,High Net Worth,N
+7,Fina,Merali,Female,23-02-1976,Financial Services,Mass Customer,N
+8,Rod,Inder,Male,30-03-1962,Retail,Mass Customer,N
+9,Mala,Lind&&,Female,10-03-1973,Manufacturing,Mass Customer,N
+10,Fiorenze,Birdall,Female,11-10-1988,IT,Mass Customer,N
+10,Fiorenze,Birdall,Female,11-10-1988,Retail,High Net Worth,N
+11,Uriah,Bisatt,Male,30-04-1954,Manufacturing,Mass Customer,N
+12,Sawyere,Flattman,Male,21-07-1994,Telecommunications,Mass Customer,N
+13,Gabriele,Norcross,Male,15-02-1955,Health,Mass Customer,N
+14,Rayshell,Kitteman,Female,25-03-1983,Health,Mass Customer,N
+15,Erroll,Radage,Male,13-07-2000,Manufacturing,Affluent Customer,N
+16,Harlin,Parr,Male,27-02-1977,Manufacturing,Mass Customer,N
+17,Heath,Faraday,Male,19-03-1962,Financial Services,Mass Customer,N
+18,Marjie,Neasham,Female,06-07-1967,Manufacturing,Affluent Customer,N
+19,Sorcha,Keyson,Female,15-04-2001,Manufacturing,High Net Worth,N
+20,Basile,Firth,Male,13-08-1980,Manufacturing,Mass Customer,N
+21,Mile,Cammocke,Male,20-09-1980,Financial Services,Mass Customer,N
+22,Deeanne,Durtnell,Female,10-12-1962,n/a,Mass Customer,N
+23,Olav,Polak,Male,10-02-1995,n/a,Affluent Customer,N
+24,Kim,Skpsey,Female,03-12-1977,Manufacturing,Mass Customer,N
+25,Geoff,Assaf,Male,02-12-1976,Property,Mass Customer,N
+26,Trixi,Ginnelly,Female,10-06-1978,Retail,Mass Customer,N
+27,Garvin,Klees,Male,25-09-1978,Property,High Net Worth,N
+28,Fee,Zellmer,Male,30-09-1973,Entertainment,High Net Worth,N
+29,Mona,Sancraft,Female,22-06-1968,Health,High Net Worth,N
+30,Darrick,Helleckas,Male,18-10-1961,Financial Services,High Net Worth,N
+31,Star,Praton,Female,24-11-1962,Health,Mass Customer,N
+32,Marion,Vanichkin,Female,20-04-1995,Financial Services,Mass Customer,N
+33,Ernst,Hacon,Male,25-06-1957,n/a,Mass Customer,N
+34,Jephthah,Bachmann,Male,25-09-1967,Financial Services,Affluent Customer,N
+35,Margaretha,Strettle,Female,28-09-1963,Financial Services,Affluent Customer,N
+36,Lurette,Stonnell,Female,09-11-1977,n/a,High Net Worth,N
+37,Laurie,Dwerryhouse,Female,22-12-1985,Manufacturing,Mass Customer,N
+38,Cordi,Merman,Female,29-10-1955,Property,Mass Customer,N
+39,Hunfredo,Smalley,Male,16-04-1979,Manufacturing,Affluent Customer,N
+40,Tomasine,Jerche,Female,27-10-1981,Health,High Net Worth,N
+41,Basilius,Coupe,Male,14-04-1976,Financial Services,Mass Customer,N
+42,Chiquita,Durnall,Female,28-03-1977,Retail,Mass Customer,N
+43,Indira,Belt,Female,01-03-1983,n/a,Affluent Customer,N
+44,Neron,Verick,Male,18-10-1981,n/a,High Net Worth,N
+45,Trace,Woodhead,Male,23-09-1975,Retail,High Net Worth,N
+46,Kaila,Allin,Female,26-02-1972,Financial Services,Affluent Customer,N
+47,Matthew,Jeaycock,Male,22-10-1992,n/a,High Net Worth,N
+48,Rebbecca,Casone,Female,15-08-1975,Financial Services,Mass Customer,N
+49,Nolly,Ownsworth,Male,26-01-1994,Argiculture,Mass Customer,N
+50,Whitby,Schapero,Male,01-10-1980,Manufacturing,Affluent Customer,N
+51,Fidelio,Dilke,Male,05-12-1959,Financial Services,Affluent Customer,N
+52,Curran,Bentson,Male,22-06-1988,Health,High Net Worth,N
+53,Agnella,Gocke,Female,18-04-1954,Property,Mass Customer,N
+54,Loralyn,Wonfor,Female,24-07-1966,Retail,Mass Customer,N
+55,Linc,Jillions,Male,24-09-1956,Manufacturing,Mass Customer,N
+56,Reese,Ensor,Male,04-07-1996,Argiculture,Mass Customer,N
+57,Abba,Masedon,Male,13-06-1988,n/a,Mass Customer,N
+58,Dalenna,Pinnock,Female,04-07-1967,n/a,Mass Customer,N
+59,Niki,Heathcote,Male,08-02-2000,IT,Mass Customer,N
+60,Nadiya,Champerlen,Female,04-02-1970,Financial Services,High Net Worth,N
+61,Kacey,Rowbottom,Female,29-11-1959,Argiculture,Mass Customer,N
+62,Sorcha,Roggers,Female,06-07-1979,Financial Services,High Net Worth,N
+63,Ebony,Zini,Female,03-07-1965,Manufacturing,High Net Worth,N
+64,Gerek,Yve,Male,25-03-1978,IT,High Net Worth,N
+65,Yale,Tanser,Male,01-04-1976,Retail,High Net Worth,N
+66,Anselm,Gawne,Male,11-03-2002,Property,Affluent Customer,N
+67,Vernon,Philander,Male,14-06-1960,Manufacturing,Affluent Customer,N
+68,Dahlia,Eddoes,Female,21-04-1974,Financial Services,High Net Worth,N
+69,Heidi,Milner,Female,22-06-1969,n/a,High Net Worth,N
+70,Foster,Vannoort,Female,27-02-1993,Health,High Net Worth,N
